@@ -12,7 +12,7 @@ why would they want to use it?
 0. Set-Up
 * creating a repo and clone it locally on my computer
 
-* you  can see my [initial repository]()
+* you  can see my [initial repository](https://github.com/jraoul2002/acme-web-design)
 * [live demo](https://jraoul2002.github.io/acme-web-design/)
 
 ### Repo
