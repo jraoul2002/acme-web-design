@@ -13,7 +13,7 @@ why would they want to use it?
 * creating a repo and clone it locally on my computer
 
 * you  can see my [initial repository]()
-* [live demo]()
+* [live demo](https://jraoul2002.github.io/acme-web-design/)
 
 ### Repo
 * Generate from Template
