@@ -31,7 +31,7 @@ i worked in 4 branches
 * master branch
 
 #### HTML
-nothing was changed
+i have added the sript because the webpage has many pages
 
 #### CSS
 nothing was changed
